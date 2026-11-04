@@ -34,7 +34,7 @@ Uygulama, hem **Sunucu (Server)** hem de **İstemci (Client)** modlarını tek b
 ## Kurulum ve Çalıştırma Adımları
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/YMH219-ChatApp.git
+   git clone https://github.com/Sudemc/YMH219-ChatApp.git
    ```
 2. `YMH219-ChatApp.csproj` dosyasını Visual Studio ile açın ve derleyin.
 3. Uygulamadan iki adet pencere başlatın:
